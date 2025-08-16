@@ -1,6 +1,6 @@
 # 📰 NewsIt
 
-A modern **News Web Application** built using **HTML, CSS, and JavaScript** with integration to [NewsAPI.org](https://newsapi.org/).  
+A modern **News Web Application** built using **HTML, CSS, and JavaScript** with integration to [NewsAPI](https://content.guardianapis.com).  
 It provides live news updates, bookmarking, dark mode, and more — all in a clean responsive UI.
 
 ---
