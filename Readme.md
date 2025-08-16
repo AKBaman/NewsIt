@@ -9,7 +9,6 @@ It provides live news updates, bookmarking, dark mode, and more — all in a cle
 - 📱 **Responsive Design** (works across mobile, tablet, and desktop)
 - 🌙 **Dark Mode Toggle**
 - 🔼 **Go Up Button** for better navigation
-- 📂 **Categories** (IPL, Finance, Politics, Technology, Travel, Innovation)
 - ➕ **Load More** button with pagination
 - 🔖 **Bookmark Articles** (saved to localStorage)
 - ❌ **Remove from Bookmarks** option
